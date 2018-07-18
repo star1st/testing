@@ -1,0 +1,13 @@
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\bin\Debug\OLD.DB.exe.config
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\bin\Debug\OLD.DB.exe
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\bin\Debug\OLD.DB.pdb
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.csprojResolveAssemblyReference.cache
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.Form1.resources
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.myConn.resources
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.Properties.Resources.resources
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.csproj.GenerateResource.Cache
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.exe
+E:\BS3\Visual Programming\Projects\OLD.DB\OLD.DB\obj\Debug\OLD.DB.pdb
+D:\OLD.DB\OLD.DB\bin\Debug\OLD.DB.exe.config
+D:\OLD.DB\OLD.DB\obj\Debug\OLD.DB.exe
+D:\OLD.DB\OLD.DB\obj\Debug\OLD.DB.pdb

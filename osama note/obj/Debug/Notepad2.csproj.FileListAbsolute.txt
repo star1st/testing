@@ -1,0 +1,25 @@
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe.config
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.exe
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\bin\Debug\Notepad2.pdb
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.csprojResolveAssemblyReference.cache
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form1.resources
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.Cache
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.exe
+c:\users\ramesh\desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.pdb
+C:\Users\Ramesh\Desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form2.resources
+C:\Users\Ramesh\Desktop\Projects\Notepad2\Notepad2\obj\Debug\Notepad2.Form3.resources
+G:\Notepad2\bin\Debug\Notepad2.exe.config
+G:\Notepad2\obj\Debug\Notepad2.exe
+G:\Notepad2\obj\Debug\Notepad2.pdb
+G:\Notepad2\bin\Debug\Notepad2.exe
+G:\Notepad2\bin\Debug\Notepad2.pdb
+G:\Notepad2\obj\Debug\Notepad2.csprojResolveAssemblyReference.cache
+G:\Notepad2\obj\Debug\Notepad2.Form1.resources
+G:\Notepad2\obj\Debug\Notepad2.Form2.resources
+G:\Notepad2\obj\Debug\Notepad2.Form3.resources
+G:\Notepad2\obj\Debug\Notepad2.Properties.Resources.resources
+G:\Notepad2\obj\Debug\Notepad2.csproj.GenerateResource.Cache
+G:\osama note\bin\Debug\Notepad2.exe.config
+G:\osama note\obj\Debug\Notepad2.exe
+G:\osama note\obj\Debug\Notepad2.pdb

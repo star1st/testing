@@ -1,0 +1,14 @@
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\bin\Debug\streamreader_01.exe.config
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\bin\Debug\streamreader_01.exe
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\bin\Debug\streamreader_01.pdb
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.csprojResolveAssemblyReference.cache
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.Form1.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.Form2.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.Properties.Resources.resources
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.csproj.GenerateResource.Cache
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.exe
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.pdb
+c:\users\hansmukh_902\documents\visual studio 2015\Projects\streamreader_01\streamreader_01\obj\Debug\streamreader_01.Form3.resources
+D:\streamreader_01\streamreader_01\bin\Debug\streamreader_01.exe.config
+D:\streamreader_01\streamreader_01\obj\Debug\streamreader_01.exe
+D:\streamreader_01\streamreader_01\obj\Debug\streamreader_01.pdb
